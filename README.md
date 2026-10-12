@@ -93,7 +93,11 @@ Meu objetivo é simples: escrever código limpo, entregar software confiável e 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Explor3rZ&theme=react-dark&hide_border=true&bg_color=0D1117&area=true" alt="Activity Graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Explor3rZ/Explor3rZ/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Explor3rZ/Explor3rZ/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribuições do GitHub" src="https://raw.githubusercontent.com/Explor3rZ/Explor3rZ/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
