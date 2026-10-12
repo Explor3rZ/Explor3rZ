@@ -46,8 +46,8 @@ Meu objetivo é simples: escrever código limpo, entregar software confiável e 
 <div align="center">
 
 <a href="https://github.com/Explor3rZ"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:SEU-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.reddit.com/user/fileExplor3r/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
+<a href="https://www.instagram.com/exp.bat/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 </div>
 
